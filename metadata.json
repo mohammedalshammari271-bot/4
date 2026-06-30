@@ -1,0 +1,6 @@
+{
+  "name": "منصة مدرسي — أسئلة الاستبدال الوزارية",
+  "description": "تطبيق التقييم الذاتي التفاعلي من منصة مدرسي لحل ومقارنة أسئلة الاستبدال النحوية لطلاب الصف السادس الإعدادي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
